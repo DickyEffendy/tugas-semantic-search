@@ -1,0 +1,122 @@
+[
+  {
+    "text": "Machine learning memungkinkan komputer mempelajari pola dari contoh data untuk membuat prediksi atau keputusan tanpa aturan yang ditulis satu per satu.",
+    "category": "AI dan Machine Learning"
+  },
+  {
+    "text": "Deep learning menggunakan jaringan saraf dengan banyak lapisan untuk mempelajari pola kompleks dari gambar, suara, atau teks.",
+    "category": "AI dan Machine Learning"
+  },
+  {
+    "text": "Natural language processing membantu komputer memahami, mengolah, dan menghasilkan bahasa manusia dalam bentuk teks atau percakapan.",
+    "category": "AI dan Machine Learning"
+  },
+  {
+    "text": "Embedding mengubah teks menjadi vektor angka sehingga kalimat dengan makna serupa dapat ditemukan melalui perhitungan kemiripan.",
+    "category": "AI dan Machine Learning"
+  },
+  {
+    "text": "Semantic search mencari dokumen berdasarkan kedekatan makna, meskipun kata-kata pada pertanyaan berbeda dari isi dokumen.",
+    "category": "AI dan Machine Learning"
+  },
+  {
+    "text": "Model klasifikasi memprediksi kelas seperti spam atau bukan spam berdasarkan pola yang dipelajari dari data pelatihan.",
+    "category": "AI dan Machine Learning"
+  },
+  {
+    "text": "FastAPI adalah framework Python untuk membangun layanan backend dan REST API dengan validasi data serta dokumentasi otomatis.",
+    "category": "Backend API"
+  },
+  {
+    "text": "Endpoint API adalah alamat dan metode HTTP yang digunakan klien untuk meminta atau mengirim data ke server.",
+    "category": "Backend API"
+  },
+  {
+    "text": "Autentikasi memeriksa identitas pengguna sebelum sistem memberikan akses ke layanan atau sumber daya tertentu.",
+    "category": "Backend API"
+  },
+  {
+    "text": "JSON adalah format pertukaran data berbasis teks yang sering digunakan API untuk mengirim objek dan daftar.",
+    "category": "Backend API"
+  },
+  {
+    "text": "HTTP status code menjelaskan hasil permintaan, misalnya 200 untuk berhasil, 404 ketika sumber daya tidak ditemukan, dan 500 untuk kesalahan server.",
+    "category": "Backend API"
+  },
+  {
+    "text": "Validasi request memastikan data masukan memenuhi tipe dan aturan yang ditetapkan sebelum server memprosesnya.",
+    "category": "Backend API"
+  },
+  {
+    "text": "HTML menyusun struktur konten halaman web seperti judul, paragraf, gambar, tautan, dan formulir.",
+    "category": "Frontend"
+  },
+  {
+    "text": "CSS mengatur tampilan halaman web, termasuk warna, jarak, ukuran teks, tata letak, dan responsivitas.",
+    "category": "Frontend"
+  },
+  {
+    "text": "JavaScript membuat halaman web interaktif melalui event, manipulasi elemen, dan komunikasi dengan API.",
+    "category": "Frontend"
+  },
+  {
+    "text": "React membangun antarmuka pengguna menggunakan komponen yang dapat digunakan kembali dan mengelola perubahan state.",
+    "category": "Frontend"
+  },
+  {
+    "text": "Responsive design menyesuaikan tata letak situs dengan ukuran layar ponsel, tablet, dan komputer.",
+    "category": "Frontend"
+  },
+  {
+    "text": "Validasi formulir pada sisi klien membantu pengguna memperbaiki input yang kosong atau tidak sesuai sebelum data dikirim.",
+    "category": "Frontend"
+  },
+  {
+    "text": "Database relasional menyimpan data dalam tabel yang memiliki baris, kolom, kunci, dan hubungan antar tabel.",
+    "category": "Database"
+  },
+  {
+    "text": "SQL digunakan untuk membaca, menambah, mengubah, dan menghapus data dalam sistem basis data relasional.",
+    "category": "Database"
+  },
+  {
+    "text": "Indeks database mempercepat pencarian baris tertentu dengan struktur tambahan, tetapi membutuhkan ruang penyimpanan dan biaya saat data berubah.",
+    "category": "Database"
+  },
+  {
+    "text": "Primary key adalah kolom atau gabungan kolom yang mengidentifikasi setiap baris secara unik dalam tabel.",
+    "category": "Database"
+  },
+  {
+    "text": "Transaksi database mengelompokkan beberapa operasi agar berhasil bersama atau dibatalkan sesuai prinsip atomicity.",
+    "category": "Database"
+  },
+  {
+    "text": "Vector database menyimpan embedding dan mencari vektor yang paling dekat berdasarkan metrik seperti cosine similarity.",
+    "category": "Database"
+  },
+  {
+    "text": "Pandas membantu membersihkan, menggabungkan, mengubah, dan menganalisis data tabular menggunakan struktur DataFrame.",
+    "category": "Data Science"
+  },
+  {
+    "text": "Visualisasi data menyajikan pola melalui grafik seperti diagram batang, grafik garis, histogram, dan scatter plot.",
+    "category": "Data Science"
+  },
+  {
+    "text": "Statistik deskriptif merangkum karakteristik data melalui ukuran seperti rata-rata, median, modus, dan simpangan baku.",
+    "category": "Data Science"
+  },
+  {
+    "text": "Data preprocessing menangani nilai hilang, data duplikat, format tidak konsisten, dan fitur yang perlu diubah sebelum analisis.",
+    "category": "Data Science"
+  },
+  {
+    "text": "Train-test split membagi data menjadi bagian pelatihan dan pengujian untuk mengukur kemampuan model pada data yang belum dilihat.",
+    "category": "Data Science"
+  },
+  {
+    "text": "Metrik evaluasi seperti precision, recall, F1-score, dan accuracy membantu menilai performa model klasifikasi.",
+    "category": "Data Science"
+  }
+]

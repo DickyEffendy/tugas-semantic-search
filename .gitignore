@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Qdrant local database (will be generated when the app runs)
+qdrant_data/
+
+# Editors and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Environment secrets
+.env
+
+# Panduan pribadi, tidak diunggah ke GitHub
+PANDUAN_LANGKAH_DEMI_LANGKAH.md
